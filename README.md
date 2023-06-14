@@ -1,0 +1,2 @@
+# MyAwesomePackage
+Test package
